@@ -1,0 +1,230 @@
+#myTopnav2{
+    background-color:teal;
+    overflow: hidden;
+    
+
+}
+.myheader{
+    padding-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+.mylogo{
+    font-family: Arial, Helvetica, sans-serif;
+    color: teal;
+    font-size: 50px;
+    line-height: 2em;
+    
+}
+
+
+
+a:link{
+    text-decoration: none;
+}
+
+.mybutton{
+    color: white;
+}
+.row{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.description {
+    text-align: center;
+    background-color:white;
+    
+    
+    
+    
+}
+
+.mydescription1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:30px;
+    text-align: centre;
+    padding-top: 1%;
+    color:black;
+}
+
+.mydescription3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: centre;
+    padding-top: 1%;
+    color: teal;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.myparagraph{
+    color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.mysearch{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-size: 35px;
+    padding-left: 20px;
+    
+    
+
+}
+
+
+.myage{
+    font-family: Arial, Helvetica, sans-serif;
+    color: teal;
+    font-size: 20px;
+    padding-left: 20px;
+    
+
+
+}
+
+.col{
+    padding: 10px;
+}
+
+
+.bookform{
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.fullfooter{
+    background-color: teal;
+    color:white;
+    
+}
+
+.mytopfooter{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+a{
+    text-decoration: none; 
+    color: inherit;
+}
+.mysignup{
+    color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.onclick{
+    width: 350px;
+    height: 500px;
+    background-size: cover;
+    
+    
+    margin: 4px;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    position: relative;
+}
+
+.onclick div{
+    position: absolute;
+    color:teal;
+    padding: 4px;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: white;
+    opacity: 0;
+    text-align: center;
+
+}
+.onclick div.show{
+    opacity: 1;
+    
+}
+
+
+
+
+
+
+
+
+.dropbutton {
+    background-color: white;
+    color:black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropbuttonbottom:hover, .dropbuttonbottom:focus {
+    background-color: teal;
+  }
+  
+  #myInput {
+    box-sizing: border-box;
+   /* background-image: url('searchicon.png');*/
+    background-position: 14px 12px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 14px 20px 12px 45px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  #myInput:focus {outline: 3px solid #ddd;}
+
+  .dropdown{
+      color: teal;
+      font-family: Arial, Helvetica, sans-serif;
+        
+    font-size: 20px;
+    
+  }
+  
+  .dropdownbottom {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f6f6f6;
+    color: black !important;
+
+    min-width: 230px;
+    max-height:250px;/* you can change as you need it */
+   
+    overflow: auto;
+    border: 1px solid #ddd;
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown a:hover {background-color:teal;}
+  
+  .show {display: block;}
+
+
+
+
+
+
+
+
